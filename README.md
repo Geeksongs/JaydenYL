@@ -5,7 +5,8 @@
 
   These are some intro of me:
   - Favorite programming languages: Python, C/C++, Java
-  - 
+  - Blog , record my life
+  - Interested in IoT, Distributed System  
 
 
 
